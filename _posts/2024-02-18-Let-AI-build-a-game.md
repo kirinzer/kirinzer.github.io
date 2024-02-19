@@ -128,7 +128,9 @@ ping pong game 的环境问题，因为是一个 GUI 游戏，本身还需要安
 
 工程文件如下，出现问题的部分已经修复并添加了注释。
 
-https://github.com/kirinzer/ChatDev-WareHouse-Projects/blob/main/ForthGame_DefaultOrganization_20240206175955/game.py
+![ping pong](/assets/img/ping pong.jpg)
+
+<https://github.com/kirinzer/ChatDev-WareHouse-Projects/blob/main/ForthGame_DefaultOrganization_20240206175955/game.py>
 
 ### 5. 总结
 简单总结一下，目前看来，如果做复杂任务可能还是有一定的难度的。但是可以拆解开，这其实也是我们现有的处理复杂问题的标准流程。将复杂问题拆解，大问题化解成多个小问题，甚至在没有上下文强依赖的情况下可以并行执行，缩短整体项目执行时间。
