@@ -19,7 +19,7 @@ footer:
 # Author
 author: 'Haitao Liu'
 nickname: 'Kirinzer'
-bio: 'Keep balance'
+bio: 'tradeoff'
 avatar: '/assets/img/avatar.jpeg'
 
 # Search
@@ -51,7 +51,7 @@ postPatterns: 'circuitBoard'
 sns:
   juejin: '//juejin.im/user/58bf69c18ac247006359e082'
   github: '//github.com/kirinzer'
-  email: 'mailto:z841354@gmail.com'
+  email: 'mailto:kirinzer@outlook.com'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
