@@ -4,10 +4,11 @@
     </div>
     <i id="menu-toggle" class="iconfont icon-menu"></i>
     <nav class="g-nav">
-        <ul>
-            {% for i in site.nav %}
-            <li><a href="{{ i[1] }}">{{ i[0] }}</a></li>
-            {% endfor %}
-        </ul>
+      <ul>
+        {% assign sorted_nav = site.navigation | sort: 'nav_order' %}
+        {% for nav_item in sorted_nav %}
+        <li><a href="{{ nav_item.url }}">{{ nav_item.text }}</a></li>
+        {% endfor %}
+      </ul>
     </nav>
-</header>
+  </header>

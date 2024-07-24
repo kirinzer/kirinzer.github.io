@@ -8,9 +8,16 @@ url: '' # your host
 baseurl: ''
 
 # Navigation links
-nav:
-  home: '/'
-  tags: '/tags.html'
+navigation:
+  - text: Home
+    url: /
+    nav_order: 1
+  - text: Tags
+    url: /tags/
+    nav_order: 2
+  - text: ffmpeg-handbook
+    url: /
+    nav_order: 3
 
 # Footer
 footer:
