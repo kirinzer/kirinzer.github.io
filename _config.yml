@@ -16,7 +16,7 @@ navigation:
     url: /tags/
     nav_order: 2
   - text: ffmpeg-handbook
-    url: /
+    url: 'https://handbook.kirinzer.com/'
     nav_order: 3
 
 # Footer
