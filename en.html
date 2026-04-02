@@ -1,6 +1,6 @@
 ---
 layout: default
-home-title: Kirinzer's SpaceX
+home-title: English Articles
 description: Logic without borders
 permalink: /en/
 ---
@@ -18,7 +18,7 @@ permalink: /en/
 
 <main class="g-container home-content">
     <div class="article-list">
-        {% assign english_posts = site.posts | where_exp: "post", "post.categories contains 'en' or post.english == true" %}
+        {% assign english_posts = site.posts | where: "english", true %}
         {% for post in english_posts %}
             <article class="article-item">
                 {% if post.cover %}
