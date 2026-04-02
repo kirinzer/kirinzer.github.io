@@ -13,7 +13,7 @@ navigation:
     url: /
     nav_order: 1
   - text: Tags
-    url: /tags/
+    url: /tags.html
     nav_order: 2
   - text: ffmpeg-handbook
     url: 'https://handbook.kirinzer.com/'
@@ -26,7 +26,7 @@ footer:
 # Author
 author: 'Haitao Liu'
 nickname: 'Kirinzer'
-bio: 'tradeoff'
+bio: 'Starry Heavens Above, Sovereign Logic Within.'
 avatar: '/assets/img/avatar.jpeg'
 
 # Search
