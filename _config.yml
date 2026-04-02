@@ -1,7 +1,7 @@
 # Site settings
 title: "Kirinzer's SpaceX"
 description: ''
-keyword: 'Kirinzer, iOS, Swift, OC, Python, 技术, 人文, 分享, 音视频, 图形, 逆向, 攻防'
+keyword: 'Kirinzer, iOS, Swift, OC, Python, Web3, Vue3, AI, 技术, 人文, 分享, 音视频, 图形, 逆向, 攻防'
 url: '' # your host
 
 # if you don't need baseurl, you should leave this value blank.
@@ -12,11 +12,11 @@ navigation:
   - text: Home
     url: /
     nav_order: 1
-  - text: Tags
-    url: /tags.html
+  - text: EN
+    url: /en/
     nav_order: 2
-  - text: ffmpeg-handbook
-    url: 'https://handbook.kirinzer.com/'
+  - text: Tags
+    url: /tags/
     nav_order: 3
 
 # Footer
