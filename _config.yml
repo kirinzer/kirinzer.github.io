@@ -57,6 +57,8 @@ postPatterns: 'circuitBoard'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   juejin: '//juejin.im/user/58bf69c18ac247006359e082'
+  zhihu: '//www.zhihu.com/people/liu-hai-tao-53-81'
+  twitter: '//x.com/kirinzer'
   github: '//github.com/kirinzer'
   email: 'mailto:kirinzer@outlook.com'
 
