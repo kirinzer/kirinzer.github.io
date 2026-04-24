@@ -16,7 +16,7 @@ navigation:
     url: /en/
     nav_order: 2
   - text: Tags
-    url: /tags/
+    url: /tags
     nav_order: 3
 
 # Footer
