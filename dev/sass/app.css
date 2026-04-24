@@ -110,7 +110,7 @@ a {
         .g-header .g-nav > ul > li > a:hover {
           opacity: 1; }
   .g-header .nav-default a:hover {
-    color: #1494FB !important; }
+    color: #c0c0c0 !important; }
   .g-header .nav-pink a:hover {
     color: #FC6794 !important; }
 
@@ -492,7 +492,7 @@ a {
   margin: 0;
   color: #fff;
   overflow: hidden;
-  background-color: #4285f4;
+  background: linear-gradient(0deg, #0a0a0a 0%, #3a3a3a 100%) !important;
   z-index: 0; }
   .post-header h1 {
     font-size: 32px;
@@ -561,7 +561,7 @@ a {
     z-index: -2; }
 
 .bgcolor-default {
-  background-color: #c0c0c0; }
+  background-color: #3a3a3a; }
 
 .bgcolor-pink {
   background-color: #FC6794; }
